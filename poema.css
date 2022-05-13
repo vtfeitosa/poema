@@ -1,0 +1,63 @@
+header{
+    background-color: #4F483D;
+    color: #DED5BC;
+    padding: 5px;
+}
+
+header a {
+    color: #B4A28A;
+}
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(/assets/images/papel.jpg);
+    background-size: cover;
+}
+
+body h1 {
+    color: #4F483D;
+    font-size: 50px;
+}
+
+body h2 {
+    color: #B4A28A;
+}
+
+body h3 {
+    color: #B4A28A;
+}
+
+body h3 i {
+    color: #B4A28A;
+    font-style: normal;
+}
+
+article {
+    width: 650px;
+    border-color: #4F483D;
+}
+
+div {
+    width: 500px;
+    height: 200px;
+    overflow-y: scroll;
+
+    text-align: left;
+    border-color: #B4A28A;
+
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+iframe {
+    margin: 2%;
+}
+footer {
+    background-color: #DED5BC;
+    color: #B4A28A;
+    padding: 20px;
+}
+
+footer a {
+    color: #4F483D;
+}
